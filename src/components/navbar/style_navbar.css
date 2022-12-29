@@ -1,7 +1,7 @@
 
 .navbar .nav_cover{
   display: grid;
-  grid-template-columns: 1fr 5fr 2fr;
+  grid-template-columns: 1fr 4fr 2fr;
 
 }
 .logo{
